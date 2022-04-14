@@ -1,3 +1,7 @@
 Git version check 
 
+Maybe Jena will input a codeline over here. 
+
 This is my first file upload to github profile
+
+making some trash changes, trying to replicate the changes in actual code.
